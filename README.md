@@ -1,4 +1,3 @@
-![Sercan Er](https://github.com/sercaner/sercaner/assets/150553197/732d17bc-34ec-4d98-935f-2022fbfb0809)
 ![linkedInKapak](https://github.com/sercaner/sercaner/assets/150553197/3152f312-27d0-4b2a-baa8-d21f5a4f61ea)
 
 <h1 align="center">Hi 👋, I'm Sercan</h1>
