@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SercanEr](https://github.com/SercanEr)
 
-- 📝 I regularly write articles on [https://medium.com/@sercaner.221/list/reading-list](https://medium.com/@sercaner.221/list/reading-list)
+- 📝 I regularly write articles on [https://medium.com/@sercaner.221](https://medium.com/@sercaner.221)
 
 - 💬 Ask me about **Java,SQL,Spring Boot**
 
