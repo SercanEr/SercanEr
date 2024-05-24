@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sercaner.221@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/sercan-er-a57087254](www.linkedin.com/in/sercan-er-a57087254)
+- 📄 Know about my experiences [www.linkedin.com/in/sercan-er-a57087254](https://www.linkedin.com/in/sercan-er-a57087254/)
 
 - ⚡ Fun fact **amateur writer, struggling programmer**
 
